@@ -1,0 +1,16 @@
+Requisitos Funcionais 
+
+1.	O sistema deve ser capaz de armazenar todas as questões do Aplicativo Mobile desenvolvido pela equipe, identificadas por um código.
+2.	O sistema deve ser capaz de exibir os enunciados das questões e suas respectivas alternativas de resposta. Além de conter as dicas, pontuação e a competência relativa a questão. 
+3.	O sistema deve ser capaz de enviar emails para os usuários, de acordo com suas conquistas e seu desenvolvimento no jogo.
+4.	O sistema deve armazenar detalhes sobre as respostas dadas pelos usuários às questões, a fim de criar dados estatísticos.
+5.	O sistema deve proporcionar que os usuários comentem e respondam uns aos outros em cada uma das questões.
+6.	O sistema deve proporcionar ao usuário a formação de grupos/equipes de competição. 
+7.	O sistema deve permitir interação entre os usuários, de maneira que esses possam convidar seus amigos para seu grupo/equipe de jogo.
+8.	O sistema deve ser capaz de armazenar e relacionar os dados dos participantes das equipes e gerar um Ranking entre os seus usuários.
+9.	O sistema deve gerar, semanalmente, um relatório de desenvolvimento do usuário, de acordo com suas metas.
+10.	O sistema deve armazenar e fornecer aos usuários apostilas de estudo de Programação, os materiais relativos à construção ao Jogo de Tabuleiro Programming e o material planejamento de estudos. 
+
+O Sistema Web desenvolvido na disciplina será relacionado ao aplicativo desenvolvido pela equipe do Projeto de Gamificação para Ensino de Algoritmos
+
+
